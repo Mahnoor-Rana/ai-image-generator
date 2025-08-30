@@ -13,7 +13,7 @@ A powerful Streamlit web application that transforms your ideas into stunning vi
 
 ## 🚀 Live Demo
 
-[**🌐 Try the App Live**](https://your-app-url.streamlit.app)
+[**🌐 Try the App Live**](https://ai-image-generator-by-mahnoor.streamlit.app/)
 
 ## 📸 Screenshots
 
@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ and powered by AI**
 
 ### Quick Links:
-- [🌐 Live Demo](https://your-app-url.streamlit.app)
+- [🌐 Live Demo](https://ai-image-generator-by-mahnoor.streamlit.app/)
 - [📚 OpenAI API](https://platform.openai.com/docs)
 - [🚀 Streamlit](https://streamlit.io)
 - [🐙 GitHub](https://github.com/Mahnoor-Rana)
